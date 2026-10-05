@@ -9,7 +9,7 @@ VitalsPatch lets one caregiver monitor several patients at once. Each sensor nod
 
 ## Demo
 
-<!-- Drag vitalspatch_demo.mp4 into this line while editing the README on GitHub -->
+https://github.com/user-attachments/assets/9d52a5d2-b57e-4a6b-9b01-fe2860853154
 
 *The dashboard tracks two patients live. Alerts escalate from normal (green) to temperature spike (orange) to fall detected (red).*
 
